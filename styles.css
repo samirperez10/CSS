@@ -4,6 +4,8 @@
 
 body{
     background-color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
 }
 
 h1{
@@ -27,4 +29,15 @@ h1{
 }
 .text-rigth{
     text-align: right;
+}
+.text-justify{
+    text-align: justify;
+}
+p{
+    margin: 10px;
+    font-size: 20px;
+}
+.text-danger{
+    color: red;
+    font-weight: bold;
 }
